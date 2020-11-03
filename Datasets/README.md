@@ -1,6 +1,3 @@
-Short explanations for each file. 
-
-
 * Strabo-Crete: contains a full georeferenced dataset of Strabo's description of the island of Crete (Geography 10.4.1-10.4.22, original text in English [here](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D10%3Achapter%3D4%3Asection%3D1)). The dataset contains the original Ancient Greek place names, translated names in English, tags with place types from the Pleiades Gazetteer and manually added tags based on the original text. 
 
 * Agathemerus-data: This is a little project I did for my PhD (http://www.digitalagathemerus.org/). Agathemerus of Orthon is the author of a scholarly "Sketch of Geography", a very brief summary of information about ancient Geography and knowledge of the inhabited world. The dataset contains place type information from the Pleiades gazetteer, and manually classified tags indicating more precise categories (e.g. natural feature types, man-made structures, etc.). The text in English, aligned against the original Ancient Greek, is [here](http://ugarit.ialigner.com/userProfile.php?userid=3&tgid=321). 
