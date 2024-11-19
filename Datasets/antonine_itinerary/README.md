@@ -7,3 +7,5 @@ The itinerary is a large compilation of imperial routes, and it is the most impo
 The structure of the terrestrial itinerary is very simple: each line contains a place name and the distance to it from the previous stage, in Roman miles or leagues. The terrestrial portion is further divided into geographical areas, e.g. Africa, Italy, Macedonia, Gallia, and so on. 
 
 This data comes from my private research, and it will not be available anymore after the end of the course. Feel free to play with it, and see what insights you can get. 
+
+You can find a partially translated version of the Itinerary here: https://topostext.org/work/687 
