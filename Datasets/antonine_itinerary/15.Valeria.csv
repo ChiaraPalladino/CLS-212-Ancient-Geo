@@ -1,0 +1,12 @@
+sequence-number,place_id,CTS URN,region,route_label,route_type,text_transcription,direction,direction_type,place_transcription,place_normalized,pleiades_label,distance_unit,distance_ancient,distance-ancient,distance_modern,revised_distance,place_uri,latitude,longitude,placetype,placetype_pleiades,comment
+1,,308.5,15. Valeria.,Roma-Hadria-2,sum-route-start,Ab Vrbe Hadriae usque m. p. CXLVIII sic:,,,Vrbe,Roma,Roma,,,,,,https://pleiades.stoa.org/places/423025,41.8916621952495,12.49234282802,,,
+2,,308.5,15. Valeria.,Roma-Hadria-2,sum-route-end,Ab Vrbe Hadriae usque m. p. CXLVIII sic:,,,Hadriae,Hadria,Hatria (Picenum),m. p.,CXLVIII , m. p. CXLVIII ,,,https://pleiades.stoa.org/places/413163,42.5802,13.981081,,,
+3,,,15. Valeria.,Roma-Hadria-2,,,,,,Roma,Roma,,,,0.0,,https://pleiades.stoa.org/places/423025,41.8916621952495,12.49234282802,,urban,
+4,,,15. Valeria.,Roma-Hadria-2,,,,,Tiburi,Tibu,Tibur,m. p.,XX,m. p. XX,20.0,,https://pleiades.stoa.org/places/423081,41.963602,12.79818,,settlement,
+5,,,15. Valeria.,Roma-Hadria-2,,,,,Carsiolos,Carsioli,Carsioli,m. p.,XXII,m. p. XXII,22.0,,https://pleiades.stoa.org/places/432760,42.0785637,13.043975600000100,,settlement,
+6,,,15. Valeria.,Roma-Hadria-2,,,,,Alba Tucentia,Alba Tucentia,Alba Fucens,m. p.,XXV,m. p. XXV,25.0,,https://pleiades.stoa.org/places/413005,42.0799043721955,13.411179118219900,,settlement,
+7,,,15. Valeria.,Roma-Hadria-2,,,,,Cerfennia,Cerfennia,Cerfennia,m. p.,XIII,m. p. XIII,13.0,,https://pleiades.stoa.org/places/432777,42.05903,13.6257,,station,
+8,,,15. Valeria.,Roma-Hadria-2,,,,,Corfinio,Corfinium,Corfinium,m. p.,XVI,m. p. XVI,16.0,,https://pleiades.stoa.org/places/413105,42.1219889898855,13.839046881397800,,settlement,
+9,,,15. Valeria.,Roma-Hadria-2,,,,,Interbromio,Interpromium,Interpromium,m. p.,XI,m. p. XI,11.0,,https://pleiades.stoa.org/places/413182,42.244249,13.934227,,settlement,
+10,,,15. Valeria.,Roma-Hadria-2,,,,,Theate Marrucino,Teate,Teate,m. p.,XVII,m. p. XVII,17.0,,https://pleiades.stoa.org/places/413333,42.351795,14.167152,,settlement,
+11,,,15. Valeria.,Roma-Hadria-2,,,,,Hadriae,Hadria,Hatria (Picenum),m. p.,XXIIII,m. p. XXIIII,24.0,,https://pleiades.stoa.org/places/413163,42.5802,13.981081,,settlement,

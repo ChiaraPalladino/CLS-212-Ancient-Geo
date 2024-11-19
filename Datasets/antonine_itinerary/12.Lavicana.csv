@@ -1,0 +1,12 @@
+sequence-number,place_id,CTS URN,region,route_label,route_type,text_transcription,direction,direction_type,place_transcription,place_normalized,pleiades_label,distance_unit,distance_ancient,distance-ancient,distance_modern,revised_distance,place_uri,latitude,longitude,placetype,placetype_pleiades,comment
+1,,304.6,12. Lavicana.,Roma-Beneventum-1,sum-route-start,Ab Vrbe Benevento usque m. p. CLXX:,,,Vrbe,Roma,Roma,,,,,,https://pleiades.stoa.org/places/423025,41.8916621952495,12.49234282802,,,
+2,,304.6,12. Lavicana.,Roma-Beneventum-1,sum-route-end,Ab Vrbe Benevento usque m. p. CLXX:,,,Benevento,Beneventum,Beneventum/Maleventum,m. p.,CLXX, m. p. CLXX,,,https://pleiades.stoa.org/places/432721,41.130437,14.781161,,,
+3,,,12. Lavicana.,Roma-Beneventum-2,,,,,,Roma,Roma,,,,0.0,,https://pleiades.stoa.org/places/423025,41.8916621952495,12.49234282802,,urban,
+4,,,12. Lavicana.,Roma-Beneventum-2,,,ad,,Ad Quintanas,Ad Quintanas,Ad Quintanas,m. p.,XV,m. p. XV,15.0,,https://pleiades.stoa.org/places/422814,41.8374815,12.755561500000000,,station,
+5,,,12. Lavicana.,Roma-Beneventum-2,,,ad,,Ad Pictas,Ad Pictas,Ad Pictas,m. p.,X,m. p. X,10.0,,https://pleiades.stoa.org/places/422813,41.750203,12.860163,,station,
+6,,,12. Lavicana.,Roma-Beneventum-2,,,,,Compitum,Compitum,Compitum,m. p.,XV,m. p. XV,15.0,,https://pleiades.stoa.org/places/422908,41.72707,13.148249,,sanctuary,
+7,,,12. Lavicana.,Roma-Beneventum-2,,,,,Ferentino,Ferentinum,Ferentinum,m. p.,VIII,m. p. VIII,8.0,,https://pleiades.stoa.org/places/432830,41.692693,13.253364,,settlement,
+8,,,12. Lavicana.,Roma-Beneventum-2,,,,,Frusinone,Frusino,Frusino,m. p.,VII,m. p. VII,7.0,,https://pleiades.stoa.org/places/432852,41.64016,13.351922,,settlement,
+9,,,12. Lavicana.,Roma-Beneventum-2,,,,,Fregellano,Fregellanum,Fregellanum,m. p.,XIIII,m. p. XIIII,14.0,,https://pleiades.stoa.org/places/432847,41.5461,13.513236,,settlement,
+10,,305.5-6,12. Lavicana.,Beneventum-Praenestina,,Benevento mansionibus quibus et in Prenestina,,,Benevento,Beneventum,Beneventum/Maleventum,,,,,,https://pleiades.stoa.org/places/432721,41.130437,14.781161,,,
+11,,305.5-6,12. Lavicana.,Beneventum-Praenestina,,Benevento mansionibus quibus et in Prenestina,,,Prenestina,Praenestina,Via Praenestina,m. p.,CI, m. p. CI.,,,https://pleiades.stoa.org/places/622606468,41.8866734512,12.6612622523,,,

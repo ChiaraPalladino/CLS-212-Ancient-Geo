@@ -1,0 +1,8 @@
+sequence-number,place_id,CTS URN,region,route_label,route_type,text_transcription,direction,direction_type,place_transcription,place_normalized,pleiades_label,distance_unit,distance_ancient,distance-ancient,distance_modern,revised_distance,place_uri,latitude,longitude,placetype,placetype_pleiades,comment
+1,,85.5,3. CORSICAE.,Mariana-Palmas,sum-route-start,A Mariana Palmas m. p. CXXVI:,,,Mariana,Mariana,Mariana,,,,,,https://pleiades.stoa.org/places/472096,42.539147985458100,9.495665719461660,,,
+2,,85.5,3. CORSICAE.,Mariana-Palmas,sum-route-end,A Mariana Palmas m. p. CXXVI:,,,Palmas,Palla,Palla,m. p.,CXXVI, m. p. CXXVI,,,https://pleiades.stoa.org/places/472110,41.387392,9.159401,,,
+3,,85,3. CORSICAE.,Mariana-Palmas,,,,,,Mariana,Mariana,,,,0.0,,https://pleiades.stoa.org/places/472096,42.539147985458100,9.495665719461660,,settlement,Mariana-Plalas perhaps?
+4,,,3. CORSICAE.,Mariana-Palmas,,,,,Aleria,Aleria,Alalie/Aleria,m. p.,XL,m. p. XL,40.0,,https://pleiades.stoa.org/places/472048,42.1024853991622,9.510482491797210,,settlement,
+5,,85.7,3. CORSICAE.,Mariana-Palmas,,,,,Praesidio,Praesidium,Praesidium,m. p.,XXX,m. p. XXX,30.0,,https://pleiades.stoa.org/places/472117,41.5,9.5,praesidium,unknown,Location is extremely imprecise
+6,,,3. CORSICAE.,Mariana-Palmas,,,,,Portu Favoni,Portus Favoni,Favoni Portus,m. p.,XXX,m. p. XXX,30.0,,https://pleiades.stoa.org/places/472066,41.770115,9.397573,portus,settlement,
+7,,,3. CORSICAE.,Mariana-Palmas,,,,,Plalas,Palmas?,Palla,m. p.,XXV,m. p. XXV,25.0,,https://pleiades.stoa.org/places/472110,41.387392,9.159401,,settlement,
