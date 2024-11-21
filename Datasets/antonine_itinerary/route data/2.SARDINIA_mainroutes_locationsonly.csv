@@ -1,0 +1,13 @@
+sequence-number,place_id,CTS URN,region,route_label,route_type,text_transcription,direction,direction_type,place_transcription,place_normalized,pleiades_label,distance_unit,distance_ancient,distance-ancient,distance_modern,revised_distance,place_uri,latitude,longitude,placetype,placetype_pleiades,comment
+1,,78.5,2. SARDINIA.,Portus Tibulae-Caralis,sum-route,ITER SARDINIAE a portu Tibulas Caralis m. p. CCXLVI:,,,portu Tibulas,Portus Tibulae,Tibula?,,,,,,https://pleiades.stoa.org/places/472034,41.240022,9.184759,,,
+2,,78.5,2. SARDINIA.,Portus Tibulae-Caralis,sum-route,ITER SARDINIAE a portu Tibulas Caralis m. p. CCXLVI:,,,Caralis,Caralis,Caralis,m. p.,CCXLVI, m. p. CCXLVI,,,https://pleiades.stoa.org/places/471899,39.214886,9.109522,,,
+17,,80.8,2. SARDINIA.,Olbia-Caralis,sum-route,Alio itinere ab Vlbia Caralis m. p. CLXXII:,,,Vlbia,Olbia,Olbia,,,,,,https://pleiades.stoa.org/places/471987,40.923,9.500426,,,
+18,,80.8,2. SARDINIA.,Olbia-Caralis,sum-route,Alio itinere ab Vlbia Caralis m. p. CLXXII:,,,Caralis,Caralis,Caralis,m. p.,CLXXII, m. p. CLXXII,,,https://pleiades.stoa.org/places/471899,39.214886,9.109522,,,
+24,,81.5,2. SARDINIA.,Tibulas-Caralis,sum-route,A Tibulas Caralis m. p. CCXIII:,,,Tibulas,Tibulas,Tibula?,,,,,,https://pleiades.stoa.org/places/472034,41.240022,9.184759,,,
+25,,81.5,2. SARDINIA.,Tibulas-Caralis,sum-route,A Tibulas Caralis m. p. CCXIII:,,,Caralis,Caralis,Caralis,m. p.,CCXIII, m. p. CCXIII,,,https://pleiades.stoa.org/places/471899,39.214886,9.109522,,,
+36,,82.8-9,2. SARDINIA.,Tibulas-Olbia,compendium,[A portu Tibulas per conpendium Vlbia m. p. XVI],per compendium,,Portu Tibulas,Portus Tibulae,Tibula?,,,,0.0,,https://pleiades.stoa.org/places/472034,41.240022,9.184759,portus,settlement,"This is already in the headers, but it’s unclear if it is a header. I am keeping it here as well until I figure it out… "
+37,,82.8-9,2. SARDINIA.,Tibulas-Olbia,compendium,,,,Vlbia,Olbia,Olbia,m. p.,XVI,m. p. XVI,16.0,,https://pleiades.stoa.org/places/471987,40.923,9.500426,,settlement,
+38,,83.1,2. SARDINIA.,Tibulas-Sulcis,sum-route,Item a Tibulas Sulcis m. p. CCLX:,,,Tibulas,Tibulas,Tibula?,,,,,,https://pleiades.stoa.org/places/472034,41.240022,9.184759,,,
+39,,83.1,2. SARDINIA.,Tibulas-Sulcis,sum-route,Item a Tibulas Sulcis m. p. CCLX:,,,Sulcis,Sulci(s),Sulci(s),m. p.,CCLX, m. p. CCLX,,,https://pleiades.stoa.org/places/472025,39.926633,9.657846,,,
+54,,84.7,2. SARDINIA.,Sulcis-Nora,sum-route,Item a Sulcis Nura m. p. LXVIIII:,,,Sulcis,Sulci(s),Sulci(s),,,,,,https://pleiades.stoa.org/places/472025,39.926633,9.657846,,,
+55,,84.7,2. SARDINIA.,Sulcis-Nora,sum-route,Item a Sulcis Nura m. p. LXVIIII:,,,Nura,Nora,Nora,m. p.,LXVIIII, m. p. LXVIIII,,,https://pleiades.stoa.org/places/471979,38.9843961176577,9.01598036005859,,,

@@ -1,0 +1,5 @@
+sequence-number,place_id,CTS URN,region,route_label,route_type,text_transcription,direction,direction_type,place_transcription,place_normalized,pleiades_label,distance_unit,distance_ancient,distance-ancient,distance_modern,revised_distance,place_uri,latitude,longitude,placetype,placetype_pleiades,comment
+1,,284.7-8,9. Via Clodia.,Luca-Roma,sum-route,Item a Luca Romam per Clodiam m. p. CCXXXVIII:,,,Luca,Luca,Luca,,,,,,https://pleiades.stoa.org/places/403234,43.84184,10.50703,,,
+2,,284.7-8,9. Via Clodia.,Luca-Roma,sum-route,Item a Luca Romam per Clodiam m. p. CCXXXVIII:,,,Romam,Roma,Roma,m. p.,CCXXXVIII, m. p. CCXXXVIII,,,https://pleiades.stoa.org/places/423025,41.8916621952495,12.49234282802,,,
+17,,286.7,9. Via Clodia.,Ariminum-Dertona,sum-route,Item ab Arimino Dertonam m. p. CCXXVIII:,,,Arimino,Ariminum,Ariminum,,,,,,https://pleiades.stoa.org/places/393379,44.0589565,12.5631945,,,
+18,,286.7,9. Via Clodia.,Ariminum-Dertona,sum-route,Item ab Arimino Dertonam m. p. CCXXVIII:,,,Dertonam,Dertona,Dertona,m. p.,CCXXVIII, m. p. CCXXVIII,,,https://pleiades.stoa.org/places/383633,44.897171,8.865452,,,

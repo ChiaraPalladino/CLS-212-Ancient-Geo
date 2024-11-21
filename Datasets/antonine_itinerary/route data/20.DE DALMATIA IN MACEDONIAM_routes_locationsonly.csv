@@ -1,0 +1,14 @@
+sequence-number,place_id,CTS URN,region,route_label,route_type,text_transcription,direction,direction_type,place_transcription,place_normalized,pleiades_label,distance_unit,distance_ancient,distance-ancient,distance_modern,revised_distance,place_uri,latitude,longitude,placetype,placetype_pleiades,comment
+1,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,,Salona,Salona,,,,0.0,,https://pleiades.stoa.org/places/197488,43.539561,16.483426,,settlement,
+2,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Ponte Tiluri,Tilurium,Tilurium,m. p.,XVI,m. p. XVI,16.0,,https://pleiades.stoa.org/places/197552,43.6096475489806,16.7216523937738,pons,fort,
+3,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Trono,Trono,‘Trono’,m. p.,XII,m. p. XII,12.0,,https://pleiades.stoa.org/places/197559,43.542611,16.863866,,station,
+5,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Aufustianis,Ad Fusciana,‘Aufustianis’,m. p.,XVIII,m. p. XVIII,18.0,,https://pleiades.stoa.org/places/197148,43.321667,17.361944,,station,
+6,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Narona,Narona,Narona,m. p.,XXV,m. p. XXV,25.0,,https://pleiades.stoa.org/places/197400,43.046389,17.598611,,settlement,
+7,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Dallunto,Dalluntum/Diluntum,Diluntum,m. p.,XXV,m. p. XXV,25.0,,https://pleiades.stoa.org/places/197247,43.078729,17.958448,,settlement,
+8,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Leusinio,Leusinium,‘Leusinio’,m. p.,XL,m. p. XL,40.0,,https://pleiades.stoa.org/places/197351,42.741551,18.471021,,station,
+9,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Andarva,Anderba,Anderva,m. p.,XXVIIII,m. p. XXVIIII,29.0,,https://pleiades.stoa.org/places/197114,42.773242,18.944147,,station,
+10,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Sallunto,Salluntum,Salluntum,m. p.,XVIII,m. p. XVIII,18.0,,https://pleiades.stoa.org/places/481979,42.721453,19.003655,,station,
+11,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Alata,Alata,(H)Alata,m. p.,XVII,m. p. XVII,17.0,,https://pleiades.stoa.org/places/481855,42.511798,19.199599,,station,
+12,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Birziminio,Birziminium,Birziminium,m. p.,X,m. p. X,10.0,,https://pleiades.stoa.org/places/481743,41.5,20.5,,river,This is a river so probably the coordinates need to be adjusted
+14,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Scodra,Scodra,Scodra,m. p.,XII,m. p. XII,12.0,,https://pleiades.stoa.org/places/481986,42.0672575,19.520268,,settlement,
+15,,,20. DE DALMATIA IN MACEDONIAM,Salona-Dyrrhachium,route,,,,Durrachio,Dyrrhachium,Dyrr(h)achium/Epidamnos,m. p.,L,m. p. L,50.0,,https://pleiades.stoa.org/places/481818,41.3163425,19.447355,,settlement,

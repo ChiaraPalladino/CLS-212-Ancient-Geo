@@ -1,0 +1,6 @@
+sequence-number,place_id,CTS URN,region,route_label,route_type,text_transcription,direction,direction_type,place_transcription,place_normalized,pleiades_label,distance_unit,distance_ancient,distance-ancient,distance_modern,revised_distance,place_uri,latitude,longitude,placetype,placetype_pleiades,comment
+3,,,13. Latina.,Roma-Decimum?,route,,,,,Roma,Roma,,,,0.0,,https://pleiades.stoa.org/places/423025,41.8916621952495,12.49234282802,,urban,More likely this is a similar itinerary to Beneventum-Praenestina. Perhaps Roma-Lavicana?
+4,,,13. Latina.,Roma-Decimum?,route,,,,Roboraria,Roboraria,Roboaria,m. p.,III,m. p. III,3.0,,https://pleiades.stoa.org/places/438818,41.7882011,12.7194776,,station (road or coastal),
+5,,,13. Latina.,Roma-Decimum?,route,,ad,,Ad Pictas,Ad Pictas,Ad Pictas,m. p.,XVII,m. p. XVII,17.0,,https://pleiades.stoa.org/places/422813,41.750203,12.860163,,station,
+6,,,13. Latina.,Roma-Decimum?,route,,,,Compitum,Compitum,Compitum,,,,0.0,,https://pleiades.stoa.org/places/422908,41.72707,13.148249,,sanctuary,
+7,,,13. Latina.,Roma-Decimum?,route,intrat in Lavicanam,,,Lavicanam,Via Lavicana,Via Labicana,m. p.,XV,m. p. XV,15.0,,https://pleiades.stoa.org/places/74935822,41.8287435,12.7112665,,road,

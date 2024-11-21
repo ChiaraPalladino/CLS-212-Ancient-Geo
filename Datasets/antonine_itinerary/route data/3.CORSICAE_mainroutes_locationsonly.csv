@@ -1,0 +1,3 @@
+sequence-number,place_id,CTS URN,region,route_label,route_type,text_transcription,direction,direction_type,place_transcription,place_normalized,pleiades_label,distance_unit,distance_ancient,distance-ancient,distance_modern,revised_distance,place_uri,latitude,longitude,placetype,placetype_pleiades,comment
+1,,85.5,3. CORSICAE.,Mariana-Palmas,sum-route,A Mariana Palmas m. p. CXXVI:,,,Mariana,Mariana,Mariana,,,,,,https://pleiades.stoa.org/places/472096,42.539147985458094,9.49566571946166,,,
+2,,85.5,3. CORSICAE.,Mariana-Palmas,sum-route,A Mariana Palmas m. p. CXXVI:,,,Palmas,Palla,Palla,m. p.,CXXVI, m. p. CXXVI,,,https://pleiades.stoa.org/places/472110,41.387392,9.159401,,,
