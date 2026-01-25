@@ -1,8 +1,8 @@
 ## Datasets for GIS and Mapping in Teaching
 
-<<<<<<< Updated upstream
 This repository originated from my course "Geography and Travel in the Ancient Mediterranean", held for several years at Furman University and it is now being updated with new datasets for use in GIS and Mapping seminars for the modules "Digital Humanities and the Ancient World", and "Geography, Environment, and Travel in the Ancient Mediterranean" at Durham University.
-=======
-This is the new webpage of my Course "CLS-212 Geography and Travel in the Ancient Mediterranean". It will contain the essential outline of the course, online material, datasets, and other content. 
 
->>>>>>> Stashed changes
+## Structure of this repository:
+
+* The [Datasets](https://github.com/ChiaraPalladino/CLS-212-Ancient-Geo/blob/master/Datasets/) folder contains csv files of fully annotated and georeferenced texts that can be used for experiments with GIS software, and some high-resolution scans of maps. Read more about it in the [Readme](https://github.com/ChiaraPalladino/CLS-212-Ancient-Geo/blob/master/Datasets/README.md).
+* The [NER-notebooks](https://github.com/ChiaraPalladino/CLS-212-Ancient-Geo/tree/master/NER-notebooks) folder contains some relatively simple Google Colab notebooks to use with Named Entity Recognition and disambiguation, plus some sample text data. 
