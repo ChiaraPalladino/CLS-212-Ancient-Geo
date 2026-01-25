@@ -1,16 +1,49 @@
-This repository contains some georeferenced data from ancient sources, in CSV format. Most data comes from manually and semi-automatically annotated sources on Recogito (https://recogito.pelagios.org/), or from other DH projects, when otherwise specified. Information and credits are specified here. 
+# Spatial datasets from ancient sources 
 
-* [Strabo_description-of-crete](https://github.com/ChiaraPalladino/CLS-212-Fall2020/blob/master/Datasets/strabo_description-of-crete.csv): contains a full georeferenced dataset of Strabo's description of the island of Crete (Geography 10.4.1-10.4.22, original text in English [here](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0239%3Abook%3D10%3Achapter%3D4%3Asection%3D1)). The dataset contains the original Ancient Greek place names, translated names in English, tags with place types from the Pleiades Gazetteer and manually added tags based on the original text. 
+This repository contains some georeferenced data from ancient sources, in CSV format. Most data comes from manually and semi-automatically annotated sources on Recogito (https://recogito.pelagios.org/), from ToposText (https://topostext.org), or from other DH projects, when otherwise specified. Information and credits are specified for each when otherwise. 
 
-* [agathemerus_sketch-of-geography](https://github.com/ChiaraPalladino/CLS-212-Fall2020/blob/master/Datasets/agathemerus_sketch-of-geography.csv): This is a little project I did for my PhD (http://www.digitalagathemerus.org/). Agathemerus of Orthon is the author of a scholarly "Sketch of Geography", a very brief summary of information about ancient Geography and knowledge of the inhabited world. The dataset contains place type information from the Pleiades gazetteer, and manually classified tags indicating more precise categories (e.g. natural feature types, man-made structures, etc.). The text in English, aligned against the original Ancient Greek, is [here](http://ugarit.ialigner.com/userProfile.php?userid=3&tgid=321). 
+## Texts
+
+* [agathemerus_sketch-of-geography](https://github.com/ChiaraPalladino/CLS-212-Fall2020/blob/master/Datasets/agathemerus_sketch-of-geography.csv): a very brief summary of information about ancient Geography and knowledge of the inhabited world. 
+
+* Antonine Itinerary: a folder of annotated and georeferenced portions of the Antonine Itinerary. Read more about it on Wikipedia: https://en.wikipedia.org/wiki/Antonine_Itinerary
 
 * [Herodotus_histories](https://github.com/ChiaraPalladino/CLS-212-Fall2020/blob/master/Datasets/herodotus_histories.csv): This is the full georeferenced dataset of all places and ethnonyms mentioned in Herodotus' Histories (5th century BCE), annotated and georeferenced by Elton Barker (Open University). The dataset contains place types according to the Pleiades gazetteer, and manually added tags indicating a few other categories (mostly ethnics and regions). All entries are also classified by book number.
 
-* [Pausanias](https://github.com/ChiaraPalladino/CLS-212-Fall2020/blob/master/Datasets/pausanias.csv): This is the full georeferenced dataset of all places mentioned in Pausanias' Tour Guide of Greece (2nd century CE), an amazing description of the "touristic" areas in all Greece at the time of the Romans. Places are tagged according to type and book number. The dataset is curated by Elton Barker (Open University), for the Digital Periegesis project (https://www.periegesis.org/). Place types are classified according to the Pleiades gazetteer, manually added tags provide further specification into man-made structures, types of land, corresponding ancient Greek categorizations.
+* [Iliad, Catalogue of Ships](https://github.com/ChiaraPalladino/CLS-212-Fall2020/blob/master/Datasets/iliad_catalog-of-ships.csv): a fully georeferenced Catalog of Ships, with place names in English and tags for ethnics, commanders, number of ships, and number of soldiers.
 
 * [Itinerarium Burdigalense](https://github.com/ChiaraPalladino/CLS-212-Fall2020/blob/master/Datasets/itinerarium-burdigalense.csv): work by the Anonymous Pilgrim of Bordeaux, it is the earliest description left by a Christian traveler in the Holy Land. The date of the journey is 333 CE. The name  of  the  author  is  not  known  to  us,  but  it  is  generally assumed  that  the  author  was  a  native  of  Bordeaux  (France), because the itinerary starts from there. The full text in English translation by Andrew S. Jacobs is available here (http://andrewjacobs.org/translations/bordeaux.html). 
 
-* [Iliad, Catalog of Ships](https://github.com/ChiaraPalladino/CLS-212-Fall2020/blob/master/Datasets/iliad_catalog-of-ships.csv): a fully georeferenced Catalog of Ships, with place names in English and tags for ethnics, commanders, number of ships, and number of soldiers.
+* Strabo: the folder contains a fully annotated version of Strabo's _Geography_ (1st century CE) and a version with automatically calculated frequencies of most mentioned places by book and overall. There is also a subset of more densely annotated data about Crete. 
+
+* Pausanias: the folder contains a fully annotated version of Pausanias' _Guide of Greece_ (2nd century CE) and a version with automatically calculated frequencies of most mentioned places by book and overall.
+
+* Xenophon, Anabasis: the folder contains fully annotated data from Xenophon's _Anabasis_ books 1-4, by Cian Colgan. 
+
+## Other datasets
+
+* Pleiades Data: an export of the full Pleiades gazetteer in CSV format. WARNING: this is a BIG FILE. Use caution when uploading on GIS software. 
 
 * [Roman Amphitheaters](https://github.com/ChiaraPalladino/CLS-212-Fall2020/blob/master/Datasets/roman-amphitheaters.csv): Dataset created by Sebastian Heath for the project Roman Amphitheaters. Read the full explanation of this dataset here: https://github.com/sfsheath/roman-amphitheaters. 
+
+## Maps 
+
+* Tabula Peutingeriana: the only extant pictorial representation of the Roman Empire. Read more about it on: https://www.tabula-peutingeriana.de/
+
+* A set of maps from manuscripts of Ptolemy's _Geography_, retrieved from WikiMedia Commons, with information on date and author in the file name. 
+
+* A full high-resolution scan of the medieval Hereford Mappa Mundi: https://en.wikipedia.org/wiki/Hereford_Mappa_Mundi
+
+* The Ortelius World Map _Theatrum Orbis Terrarum_ (Theater of the Orb of the World). Printed in Antwerp, 1570. This map is considered the first modern atlas, meaning that for the first time the available cartographic knowledge about the entire globe was condensed into one map, where every section displayed identical style, scale, and projection. Image source: The Library of Congress. Public domain.
+
+
+
+
+
+
+
+
+
+
+
 
