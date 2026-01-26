@@ -1,0 +1,122 @@
+ANONYMOUS, ITINERARIUM GADITANUM
+Itinerarium Gaditanum, Text given is of Cup 1, from BIBLIOTHECA AUGUSTANA, https://www.hs-augsburg.de/~harsch/Chronologia/Lspost04/Gaditana/gad_intr.html. This text has 53 tagged references to 53 ancient places.
+
+§ 1  Itinerarium a Gades Romam
+Ad Portum - 24
+Hastam - 16
+Ugiam - 27
+Orippum - 24
+Hispalim - 9
+Carmonem - 22
+Obuclam - 20
+Astigim - 15
+Ad Aras - 12
+Cordubam - 23
+Ad X - 10
+Eporam - 17
+Uciesem - 18
+Ad Novlas - 13
+Castulonem - 19
+Ad Morum - 24
+II Solaria - 19
+Mariana - 20
+Mentesam - 20
+
+
+§ 20  Libisosam - 24
+Parietinis - 22
+Saltigim - 16
+Ad Palem - 32
+Ad Aras - 22
+Saetabim - 28
+Sucronem - 16
+Valentiam - 20
+Sagyntum - 16
+Ad Novlas - 24
+Ildum - 22
+Intibilim - 24
+Dertosam - 27
+Sub Saltum - 37
+Tarraconem - 25
+Palfurianam - 16
+Antistianam - 13
+Ad Fines - 17
+Arragonem - 20
+Semproniana - 9
+
+
+§ 40  Seterras - 24
+Aquis Vocontis - 15
+Gerundam - 12
+Cilnianam - 12
+Iuncariam - 15
+In Pyraeneum - 16
+Ruscinonem - 25
+Combusta - 6
+Narbonem - 32
+Baeterras - 16
+Cesseronem - 13
+Forum Domiti - 18
+Sextantionem - 15
+Ambrussum - 15
+Nemausum - 15
+Ugernum - 15
+Arelata - 9
+Ergnaginum - 6
+Clanum - 8
+Cabellionem - 12
+
+
+§ 60  Aptam Iuliam - 12
+Catuiaciam - 12
+Alaunium - 16
+Segusteronem - 24
+Alabontem - 16
+Vappincum - 18
+Caturigomagum - 12
+Eburodunum - 18
+Ramam - 17
+Brigantium - 18
+Druantium - 11
+Segusionem - 24
+Ocelum - 27
+Taurinis - 20
+Quadrata - 20
+Rigomagum - 16
+Cuttias - 15
+Laumellum - 13
+Ticinum - 21
+Plambrum - 20
+
+
+§ 80  Placentiam - 16
+Florentiam - 15
+Parmam - 25
+Lepidum Regium - 18
+Mutinam - 17
+Bononiam - 25
+Claternum - 10
+Forum Corneli - 13
+Faventiam - 10
+Forum Livi - 10
+Cesenam - 13
+Ariminum - 20
+Pisaurum - 24
+Fanum Fortunae - 8
+Forum Semproni - 16
+Ad Calem - 18
+Hesim - 13
+Helvillum - 10
+Nuceriam - 15
+Mevaniam - 19
+
+
+§ 100  Ad Martis - 16
+Narniam - 18
+Ocriclo - 12
+Ad XX - 24
+Romam - 20
+Sum[ma] M[ilia] P[assus] - 1840x
+
+
+END

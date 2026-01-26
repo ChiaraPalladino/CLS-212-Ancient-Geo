@@ -22,9 +22,17 @@ This repository contains some georeferenced data from ancient sources, in CSV fo
 
 ## Other datasets
 
-* [Pleiades Data](https://github.com/ChiaraPalladino/CLS-212-Ancient-Geo/blob/master/Datasets/pleiadesdata.csv): an export of the full Pleiades gazetteer in CSV format. WARNING: this is a BIG FILE. Use caution when uploading on GIS software. 
+## Maps 
 
-* [Roman Amphitheaters](https://github.com/ChiaraPalladino/CLS-212-Fall2020/blob/master/Datasets/roman-amphitheaters.csv): Dataset created by Sebastian Heath for the project Roman Amphitheaters. Read the full explanation of this dataset here: https://github.com/sfsheath/roman-amphitheaters. 
+* [Tabula Peutingeriana](https://github.com/ChiaraPalladino/CLS-212-Ancient-Geo/tree/master/Datasets/maps/Tabula%20Peutingeriana): the only extant pictorial representation of the Roman Empire. Read more about it on: https://www.tabula-peutingeriana.de/
+
+* A set of maps from manuscripts of Ptolemy's _Geography_, retrieved from WikiMedia Commons, with information on date and author in the file name. 
+
+* [A full high-resolution scan of the medieval Hereford Mappa Mundi](https://github.com/ChiaraPalladino/CLS-212-Ancient-Geo/blob/master/Datasets/maps/Hereford-Karte-full.jpeg): https://en.wikipedia.org/wiki/Hereford_Mappa_Mundi
+
+* [The Ortelius World Map](https://github.com/ChiaraPalladino/CLS-212-Ancient-Geo/blob/master/Datasets/maps/Ortelius%201508%2C%20Typus%20orbis%20Terrarum.jpg) or _Theatrum Orbis Terrarum_ (Theater of the Orb of the World). Printed in Antwerp, 1570. This map is considered the first modern atlas, meaning that for the first time the available cartographic knowledge about the entire globe was condensed into one map, where every section displayed identical style, scale, and projection. Image source: The Library of Congress. Public domain.
+
+
 
 
 
