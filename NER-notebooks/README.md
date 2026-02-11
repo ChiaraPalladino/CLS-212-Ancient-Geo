@@ -1,6 +1,6 @@
 ## Easy Colab Notebooks to perform NER and disambiguation with Spacy and other NLP methods
 
-These notebooks contain simple code to experiment with textual documents containing spatial data, developed and readapted by Chiara Palladino (chiarapalladino@durham.ac.uk). 
+These notebooks contain simple code to experiment with textual documents containing spatial data, developed and readapted by Chiara Palladino (chiara.palladino@durham.ac.uk). 
 
 These notebooks can be tested with files in the "data" folder, or with your own .txt file. **Remember to download them and open them in Google Colab!** (particularly those that require a Google AI Studio API key). 
 
