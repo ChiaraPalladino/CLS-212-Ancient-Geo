@@ -11,3 +11,4 @@ This repository originated from my course "Geography and Travel in the Ancient M
 ## Other useful materials
 
 * [The geodata packages of the Ancient World Mapping Center](https://github.com/AWMC/geodata) contains a lot of useful data that can be immediately uploaded on any GIS software: Roman roads, bodies of water, political divisions in antiquity, urban settlements, and so on. They can be downloaded as whole .zip folders (one for Cultural data, the other for Physical data), or you can pick and choose.  Make sure to consult their [Readme](https://github.com/AWMC/geodata/blob/master/README.md) for detailed introductions to each package. 
+* The Consortium of Ancient World Mappers provides a very useful [Ancient World Map Tile](http://cawm.lib.uiowa.edu/index.html) that can be used directly with QGIS, ArcGIS, and other programs. See the step-by-step instructions: https://cawm.lib.uiowa.edu/#tiles/qgis.guide
